@@ -9,7 +9,7 @@ print('''
 ''')
 
 text = ""
-filename = "stats406/hw11/fowler_hall_2018.txt"
+filename = ""
 with open(filename, 'r') as textfile:
         text = textfile.read()
 
